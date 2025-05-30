@@ -1,2 +1,3 @@
 # Seenelk-ik
-First game
+esimene mäng
+jäid peale seenele minekut metsa
